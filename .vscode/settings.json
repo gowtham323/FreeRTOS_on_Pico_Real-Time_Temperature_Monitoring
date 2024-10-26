@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/gowtham/Projects/freertos-pi-pico/app",
+    "files.associations": {
+        "cstdlib": "c"
+    }
+}

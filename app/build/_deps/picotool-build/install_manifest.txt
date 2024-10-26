@@ -1,0 +1,5 @@
+/home/gowtham/Projects/freertos-pi-pico/app/build/_deps/picotool/picotool
+/home/gowtham/Projects/freertos-pi-pico/app/build/_deps/picotool/picotoolTargets.cmake
+/home/gowtham/Projects/freertos-pi-pico/app/build/_deps/picotool/picotoolTargets-release.cmake
+/home/gowtham/Projects/freertos-pi-pico/app/build/_deps/picotool/picotoolConfig.cmake
+/home/gowtham/Projects/freertos-pi-pico/app/build/_deps/picotool/picotoolConfigVersion.cmake
