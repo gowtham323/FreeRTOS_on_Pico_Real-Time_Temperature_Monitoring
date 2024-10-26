@@ -2,8 +2,6 @@
 
 ### Setup and Instructions
 
-Setup and instructions differ slightly from Part 1 in the blog series. The blog series uses the project name "blink" whereas this repo uses "app" as the project name.
-
 #### Linux
 All the tools we need, including Git and Make, should be available after installing these packages:
 
