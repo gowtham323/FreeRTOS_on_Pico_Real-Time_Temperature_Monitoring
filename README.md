@@ -26,11 +26,11 @@ Once you have completed the OS-specific setup, launch your terminal (Git Bash on
 
 `$ export FREERTOS_KERNEL_PATH=$PWD/FreeRTOS-Kernel`
 
-`$ git clone https://github.com/aws-iot-builder-tools/freertos-pi-pico`
+`$ git clone https://github.com/gowtham323/FreeRTOS_on_Pico_Real-Time_Temperature_Monitoring`
 
 ### Building the Project
 
-`$ cd freertos-pi-pico/app`
+`$ cd FreeRTOS_on_Pico_Real-Time_Temperature_Monitoring/app`
 
 `$ mkdir build`
 
